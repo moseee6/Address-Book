@@ -10,7 +10,7 @@ This is a comprehensive application to manage personal contacts and track travel
 1. Clone this repository.
 2. Open `index.html` 
  Live site link
- https://moseee6.github.io/Address-Book/
+ https://moseee6.github.io/Traveltracker/
  
 Business Logic Tests (TDD)
 
