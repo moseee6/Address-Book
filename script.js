@@ -72,7 +72,7 @@ window.onload = function() {
         
         
         entryForm.reset();
-        alert("Destination Logged Successfully!");
+        alert(" Logged Successfully!");
     };
 
     /**
