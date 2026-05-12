@@ -1,18 +1,18 @@
-# Travel & Contact Manager
-**Author:** [Moses Emonde]
+ Travel & Contact Manager
+Author:** Moses Emonde- student at Moringa School
 
-## Description
+ Description
 A comprehensive application to manage personal contacts and track travel destinations.
 
-## Setup Instructions
+ Setup Instructions
 1. Clone this repository.
 2. Open `index.html` 
-## Live site link
+ Live site link
  https://moseee6.github.io/Address-Book/
  
-## Business Logic Tests (TDD)
+Business Logic Tests (TDD)
 
-### Describe: AddressBook()
+ Describe: AddressBook()
 * **Test:** "It should create an empty AddressBook with an ID counter."
   * **Code:** `let book = new AddressBook();`
   * **Expected Output:** `AddressBook { contacts: {}, currentId: 0 }`
