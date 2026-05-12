@@ -17,10 +17,9 @@ Business Logic Tests (TDD)
   * **Code:** `let book = new AddressBook();`
   * **Expected Output:** `AddressBook { contacts: {}, currentId: 0 }`
 
-### Describe: Contact()
-* **Test:** "It should create a contact with first, last, and phone properties."
-  * **Code:** `let person = new Contact
-  * **Expected Output:** `{ firstName, lastName: , phoneNumber:  }`
+### Describe: Contact() "It should create a contact with first, last, and phone properties."
+  * *** `let person = new Contact
+    `{ firstName, lastName: , phoneNumber:  }`
 
 ### Describe: TravelLog()
 * **Test:** "It should store destinations in an object keyed by ID."
